@@ -1,0 +1,30 @@
+_repo: Bradford-s-History-of-Plimoth-Plantation-From-the-Original-Manuscript.-With-a-Report-of-the-P__24950
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradford, William
+    birthdate: 1590
+    deathdate: 1657
+    gutenberg_agent_id: '26830'
+    url: http://www.gutenberg.org/2009/agents/26830
+    wikipedia: http://en.wikipedia.org/wiki/William_Bradford_%28Plymouth_governor%29
+description: ''
+gutenberg_issued: '2008-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'F001'
+title: 'Bradford''s History of ''Plimoth Plantation''
+
+  From the Original Manuscript. With a Report of the Proceedings Incident to the Return
+  of the Manuscript to Massachusetts'
+url: http://www.gutenberg.org/ebooks/24950
