@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26830
     wikipedia: http://en.wikipedia.org/wiki/William_Bradford_%28Plymouth_governor%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24950#Bradford-s-History-of-Plimoth-Plantation-From-the-Original-Manuscript.-With-a-Report-of-the-P_
 gutenberg_issued: '2008-03-29'
 gutenberg_type: Text
 identifiers:
